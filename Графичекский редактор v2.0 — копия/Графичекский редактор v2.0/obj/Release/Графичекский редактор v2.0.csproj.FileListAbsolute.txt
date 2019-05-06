@@ -1,0 +1,15 @@
+C:\Users\burov\source\repos\Графичекский редактор v2.0\Графичекский редактор v2.0\bin\Release\Графичекский редактор v2.0.exe.config
+C:\Users\burov\source\repos\Графичекский редактор v2.0\Графичекский редактор v2.0\bin\Release\Графичекский редактор v2.0.exe
+C:\Users\burov\source\repos\Графичекский редактор v2.0\Графичекский редактор v2.0\bin\Release\Графичекский редактор v2.0.pdb
+C:\Users\burov\source\repos\Графичекский редактор v2.0\Графичекский редактор v2.0\bin\Release\OpenTK.dll
+C:\Users\burov\source\repos\Графичекский редактор v2.0\Графичекский редактор v2.0\bin\Release\OpenTK.GLControl.dll
+C:\Users\burov\source\repos\Графичекский редактор v2.0\Графичекский редактор v2.0\bin\Release\OpenTK.pdb
+C:\Users\burov\source\repos\Графичекский редактор v2.0\Графичекский редактор v2.0\bin\Release\OpenTK.xml
+C:\Users\burov\source\repos\Графичекский редактор v2.0\Графичекский редактор v2.0\bin\Release\OpenTK.dll.config
+C:\Users\burov\source\repos\Графичекский редактор v2.0\Графичекский редактор v2.0\bin\Release\OpenTK.GLControl.xml
+C:\Users\burov\source\repos\Графичекский редактор v2.0\Графичекский редактор v2.0\obj\Release\Графичекский_редактор_v2._0.Form1.resources
+C:\Users\burov\source\repos\Графичекский редактор v2.0\Графичекский редактор v2.0\obj\Release\Графичекский_редактор_v2._0.Properties.Resources.resources
+C:\Users\burov\source\repos\Графичекский редактор v2.0\Графичекский редактор v2.0\obj\Release\Графичекский редактор v2.0.csproj.GenerateResource.Cache
+C:\Users\burov\source\repos\Графичекский редактор v2.0\Графичекский редактор v2.0\obj\Release\Графичекский редактор v2.0.csproj.CoreCompileInputs.cache
+C:\Users\burov\source\repos\Графичекский редактор v2.0\Графичекский редактор v2.0\obj\Release\Графичекский редактор v2.0.exe
+C:\Users\burov\source\repos\Графичекский редактор v2.0\Графичекский редактор v2.0\obj\Release\Графичекский редактор v2.0.pdb
